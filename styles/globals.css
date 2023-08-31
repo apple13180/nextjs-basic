@@ -31,3 +31,6 @@ footer{
   margin-top: 10px;
   border-top: 1px solid #eaeaea;
 }
+a{
+  text-decoration: none;
+}
